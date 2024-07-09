@@ -1,0 +1,8 @@
+torch
+gradio
+diffusers
+transformers
+sentencepiece
+protobuf
+accelerate
+huggingface_hub[cli]
